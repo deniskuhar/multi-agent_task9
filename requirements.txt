@@ -1,0 +1,17 @@
+openai>=1.40.0
+langchain>=1.0.0
+langchain-openai>=0.3.0
+langchain-community>=0.3.0
+langchain-mcp-adapters>=0.1.0
+fastmcp>=2.0.0
+acp-sdk>=0.3.3
+pydantic>=2.9.0
+pydantic-settings>=2.4.0
+faiss-cpu>=1.8.0
+rank-bm25>=0.2.2
+sentence-transformers>=3.0.0
+trafilatura>=1.12.0
+ddgs>=8.0.0
+pypdf>=5.0.0
+uvicorn==0.44.0
+httpx
